@@ -1,0 +1,10 @@
+#main-title {
+    text-align: center;
+    padding: 50px;
+    border-bottom: 2px solid black;
+} 
+
+.card {
+    margin-top: 100px;
+    width: 300px;
+}
